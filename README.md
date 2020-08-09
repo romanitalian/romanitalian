@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-	<img src="https://github.com/romanitalian/romanitalian/raw/master/rmn.jpg" width="300"/>
+	<img src="https://static.tildacdn.com/tild3537-3939-4863-b034-633063306133/cosmos.png" width="300"/>
 </p>
 
 
