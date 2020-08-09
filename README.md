@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+	<img src="https://github.com/romanitalian/romanitalian/raw/master/rmn.jpg" width="300"/>
+</p>
+
+
+
 
 ##### Some points to start with:
 
