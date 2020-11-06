@@ -3,8 +3,8 @@
 My name: Roman.
 
 
-<p align="center">
-	<img src="https://github.com/romanitalian/romanitalian/blob/master/gopher_1.jpeg" width="200"/>
+<p>
+	<img src="https://github.com/romanitalian/romanitalian/blob/master/gopher_1.jpeg" width="250"/>
 </p>
 
 
