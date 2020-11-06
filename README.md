@@ -1,20 +1,16 @@
-### Hi there 👋
+### Hi there 
+
+My name: Roman.
+
 
 <p align="center">
-	<img src="https://static.tildacdn.com/tild3537-3939-4863-b034-633063306133/cosmos.png" width="300"/>
+	<img src="https://github.com/romanitalian/romanitalian/blob/master/gopher_1.jpeg" width="200"/>
 </p>
 
 
 
+I love tech oriented solutions and scalable-KISS Apps.
 
-##### Some points to start with:
+I am open to cooperation and new opportunities.
 
-- 🔭 I’m currently working on [mc2soft.ru](http://www.mc2soft.ru/)
-- 🌱 I’m currently learning Go, bench, k8s, DBA, MQ, streams, etc
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Let's do IT together today.
