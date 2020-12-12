@@ -9,7 +9,7 @@ My name: Roman.
 
 
 
-I love tech oriented solutions and scalable-KISS Apps.
+I love tech-oriented solutions and scalable-KISS Apps.
 
 I am open to cooperation and new opportunities.
 
