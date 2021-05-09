@@ -17,13 +17,21 @@ I am open to cooperation and new opportunities.
 
 Let's do IT together today.
 
-<a hre="https://twitter.com/romanitalian">
-	<img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fromanitalian" />
-</a><a hre="https://www.linkedin.com/in/roman-romadin/">
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="https://medium.com/@romanitalian">
-	<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+<span>
+	<a hre="https://twitter.com/romanitalian">
+		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>
+</span>
+<span>
+	<a hre="https://www.linkedin.com/in/roman-romadin/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+</span>
+<span>
+	<a href="https://medium.com/@romanitalian">
+		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+	</a>
+</span>
 
 <span><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></span>
