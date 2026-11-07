@@ -1,26 +1,35 @@
-### Hi there 
+### Roman Romadin
 
-My name: Roman.
+Engineering Manager · Go · Payments & distributed systems · Lisbon, Portugal
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=romanitalian&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
+I lead backend teams that build billing and payment platforms — and I still write Go.
+Recent results with my team: lead time from ~90 to ~29 days, incident MTTR from 6.5 hours
+to 38 minutes, releases from twice a month to weekly.
 
+**What I care about:** reliable money flows (idempotency, outbox, sagas), predictable delivery,
+and engineering teams that own what they ship.
 
-<p>
-	<img src="https://github.com/romanitalian/romanitalian/blob/master/gopher_1.jpeg" width="250"/>
-</p>
+#### Featured projects
 
+| Project | What it shows |
+|---|---|
+| [durapay](https://github.com/romanitalian/durapay) | Payment pipeline on durable workflows in Go: crash-safe charges with idempotency keys, NATS events, OpenAPI + gRPC, full observability, chaos test |
+| [shorty](https://github.com/romanitalian/shorty) | URL shortener built for scale: CI, OpenAPI spec, test coverage |
+| [osheet2xlsx](https://github.com/romanitalian/osheet2xlsx) | CLI tool with CI, CodeQL and security scanning |
+| [img-generator](https://github.com/romanitalian/img-generator) | REST API that renders images on the fly in Go |
 
+#### Writing
 
-I love tech-oriented solutions and scalable-KISS Apps.
+Articles in ITNEXT on [Medium](https://romanitalian.medium.com/), mostly Go internals and performance:
 
-I am open to cooperation and new opportunities.
+- [Structure size optimization in Go: alignment and padding](https://romanitalian.medium.com/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61)
+- [Redis vs etcd with Go](https://romanitalian.medium.com/redis-vs-etcd-with-golang-39e7325bc029)
+- [WebAssembly with Go from scratch](https://romanitalian.medium.com/webassemply-with-golang-by-scratch-e05ec5230558)
 
-Let's do IT together today.
+#### Stack
 
+Go · PostgreSQL · Kafka · NATS · RabbitMQ · Redis · ClickHouse · Kubernetes · AWS · GCP · OpenTelemetry
 
-<p>
-	<a href="https://twitter.com/romanitalian"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-	<a href="https://www.linkedin.com/in/roman-romadin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-	<a href="https://dev.to/romanromadin"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-	<a href="https://medium.com/@romanitalian"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/roman-romadin/) · [Medium](https://romanitalian.medium.com/)
